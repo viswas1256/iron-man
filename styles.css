@@ -1,0 +1,43 @@
+p{
+    color: brown;
+    text-align: center;
+    font-weight: 300;
+    font-size: larger;
+}
+h1{
+    color: cornflowerblue;
+    text-align: center;  
+}
+.para{
+    color: chartreuse;
+    text-align: center;
+    text-rendering: auto;
+}
+#hehe{
+    color: black;
+    text-align: center;
+}
+h2{
+    text-align: center;
+  
+}
+.box{
+    border-color: black;
+    border-width: 4px;
+    text-align: center;
+    border-style: solid;
+}
+.box p{
+    color: aqua;
+    text-align: center;
+    padding-left: 400px;
+    margin: 20px;
+}
+.image{
+    height:60px;
+    width: 80px;
+    padding-left: 40px;
+}
+.h{
+    background-color: aqua;
+}
